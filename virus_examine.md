@@ -1,3 +1,10 @@
+# Script:                       Ops Challenge 14
+# Author:                       Matt Hoos
+# Date of latest revision:      9/16/22
+# Purpose:                      Python Malware Analysis on someone else's code
+
+##*****-------  DO NOT RUN THIS  ------*****
+
 #!/usr/bin/python
 # Load Python and import the OS and DATETIME Libraries
 import os
